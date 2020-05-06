@@ -1,6 +1,4 @@
-# Summer of Tech Aura Hacking Challenge Setup Guide
-
-## Setting up Burp Suite
+# Setting up Burp Suite
 
 Burp Suite is a great tool for web security testing. While it is optional for the Summer of Tech workshop, it is very worthwhile to learn if you want to delve deeper into the world of web security.
 
