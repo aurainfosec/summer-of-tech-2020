@@ -16,6 +16,7 @@ Welcome to the Security 101 bootcamp for Summer of Tech 2020! This page will gui
   - Summer of Tech #code channel on Slack: https://app.slack.com/client/TV6M47FCY/C011KM58BQD
   - Hacking Platform: https://sot.aurainfosec.io
   - Scoreboard Platform: https://scores.sot.aurainfosec.io
+  - How to use Burpsuite: https://github.com/aurainfosec/summer-of-tech-2020/blob/master/using-burpsuite.md
 
 
 ## 1. Getting Started
