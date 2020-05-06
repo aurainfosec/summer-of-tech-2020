@@ -106,7 +106,7 @@ The OWASP Top 10 is one of the most commonly referred to documents when it comes
 
 Burp Suite is a tool which makes it a bit easier to hack. Aura's penetration testers use it a lot in their day to day work. A lot of hacking is trying lots of little variations and seeing what breaks; Burp Suite can automate that. Hacking also involves report writing with clear steps to reproduce the bug; Burp Suite can keep track of all the requests and responses. There are lots of things tools Burp Suite can do. 
 
-**We've written a quick intro guide here:** https://github.com/aurainfosec/summer-of-tech-2020/using-burpsuite.md
+**We've written a quick intro guide here:** https://github.com/aurainfosec/summer-of-tech-2020/blob/master/using-burpsuite.md
 
 Burp Suite has a [free community edition](https://portswigger.net/burp/communitydownload) with a limited feature set. [OWASP ZAP](https://www.zaproxy.org/) is another excellent option, is free open source, and can even be integrated into DevOps pipelines for automated testing!
 
